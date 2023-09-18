@@ -23,7 +23,7 @@
 }
 
 .textContainer {
-    display: contents;
+    display: flex;
     gap: 100px;
 }
 
@@ -33,4 +33,11 @@
     display: flex;
     flex-direction: column;
     gap: 30px;
+}
+
+.desc {
+    font-size: 18px;
+    font-weight: 300;
+    text-align: justify;
+
 }
