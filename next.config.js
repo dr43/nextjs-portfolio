@@ -1,5 +1,4 @@
 /** @type {import('next').NextConfig} */
-/** push from local computer */
 /** push from git */
 const nextConfig = {
     images:{
