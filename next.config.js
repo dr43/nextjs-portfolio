@@ -1,4 +1,5 @@
 /** @type {import('next').NextConfig} */
+/** push from local computer */
 const nextConfig = {
     images:{
         domains: [

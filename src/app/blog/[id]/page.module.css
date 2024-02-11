@@ -1,0 +1,58 @@
+.container{
+    display: contents;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.top {
+    display: flex;
+    text-align: justify;
+}
+
+.info {
+  gap: 100px;
+}
+
+.title {
+    font-size: 60px;
+    margin-bottom: 100px;
+    text-align: justify;
+    gap: 50px;
+}
+
+.desc {
+    font-size: 18px;
+    font-weight: 300;
+
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.avatar {
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.imageContainer {
+    flex: 1;
+    height: 300px;
+    position: relative;
+}
+
+.image {
+    
+    object-fit: cover;
+}
+
+.content {
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #999;
+    text-align: justify;
+}
