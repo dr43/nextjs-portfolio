@@ -1,5 +1,5 @@
 /** @type {import('next').NextConfig} */
-/** push from git */
+/** push from github */
 const nextConfig = {
     images:{
         domains: [
